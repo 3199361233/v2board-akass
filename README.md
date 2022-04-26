@@ -26,6 +26,8 @@ index index.html index.htm index.php;
 > 若是宝塔搭建的，自行修改配置文件，将index.html放在第一，其他往后移。
 > 宝塔修改可参考：https://jingyan.baidu.com/article/7e440953f70e516ec0e2efc0.html
 
+## 记得修改你自己的站点名称和导航栏连接和你的套餐详情
+
 ### 演示
 
 ![_2022-04-26T02-50-29.568Z.png](https://s3.maocdn.cn/img/2022/04/26/_2022-04-26T02-50-29.568Z.png)
