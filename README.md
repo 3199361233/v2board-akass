@@ -14,7 +14,6 @@ cd /usr/share/nginx/html/v2board/public/
 
 ``` 
 git clone https://github.com/3199361233/v2board-akass.git
-mv v2board-theme-LuFly/* .
 ``` 
 
 修改Nginx运行的index优先级：
