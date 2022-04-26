@@ -1,0 +1,55 @@
+	/*
+  	Flaticon icon font: Flaticon
+  	Creation date: 05/12/2020 12:10
+  	*/
+
+@font-face {
+  font-family: "Flaticon";
+  src: url("./Flaticon.eot");
+  src: url("./Flaticon.eot?#iefix") format("embedded-opentype"),
+       url("./Flaticon.woff2") format("woff2"),
+       url("./Flaticon.woff") format("woff"),
+       url("./Flaticon.ttf") format("truetype"),
+       url("./Flaticon.svg#Flaticon") format("svg");
+  font-weight: normal;
+  font-style: normal;
+}
+
+@media screen and (-webkit-min-device-pixel-ratio:0) {
+  @font-face {
+    font-family: "Flaticon";
+    src: url("./Flaticon.svg#Flaticon") format("svg");
+  }
+}
+
+[class^="flaticon-"]:before, [class*=" flaticon-"]:before,
+[class^="flaticon-"]:after, [class*=" flaticon-"]:after {   
+  font-family: Flaticon;
+  font-style: normal;
+}
+
+.flaticon-data-analytics:before { content: "\f100"; }
+.flaticon-brainstorming:before { content: "\f101"; }
+.flaticon-connection:before { content: "\f102"; }
+.flaticon-linkedin:before { content: "\f103"; }
+.flaticon-facebook:before { content: "\f104"; }
+.flaticon-twitter:before { content: "\f105"; }
+.flaticon-instagram:before { content: "\f106"; }
+.flaticon-user:before { content: "\f107"; }
+.flaticon-creative-idea:before { content: "\f108"; }
+.flaticon-database-storage:before { content: "\f109"; }
+.flaticon-check:before { content: "\f10a"; }
+.flaticon-plus:before { content: "\f10b"; }
+.flaticon-paper-plane:before { content: "\f10c"; }
+.flaticon-play:before { content: "\f10d"; }
+.flaticon-chat:before { content: "\f10e"; }
+.flaticon-calendar:before { content: "\f10f"; }
+.flaticon-time:before { content: "\f110"; }
+.flaticon-user-1:before { content: "\f111"; }
+.flaticon-phone-ringing:before { content: "\f112"; }
+.flaticon-placeholder:before { content: "\f113"; }
+.flaticon-email:before { content: "\f114"; }
+.flaticon-happy:before { content: "\f115"; }
+.flaticon-handshake:before { content: "\f116"; }
+.flaticon-data-scientist:before { content: "\f117"; }
+.flaticon-database:before { content: "\f118"; }
