@@ -12,10 +12,10 @@ cd /usr/share/nginx/html/v2board/public/
 
 下载本页面文件：
 
-``` 
-git clone https://github.com/3199361233/v2board-akass.git
-``` 
-或者手动下载，修改完之后再上传到宝塔文件，注意V2board本身就有assets文件夹，如果出错就把下载的assets里面的文件一个一个复制到v2board的assets文件夹下
+手动拉取下载模板文件到本机，修改完之后再上传到宝塔文件
+
+注意V2board本身就有assets文件夹，如果出错就把下载的assets里面的文件一个一个复制到v2board的assets文件夹下
+
 
 修改Nginx运行的index优先级：
 
