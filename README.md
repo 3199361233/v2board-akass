@@ -1,7 +1,7 @@
 # v2board-akass
-v2board前面页面模板（首页）
+## v2board前面页面模板（首页）
 
-进入v2Board的运行目录：
+### 进入v2Board的运行目录：
 
 cd /usr/share/nginx/html/v2board/public/
 
